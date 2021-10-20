@@ -1,0 +1,13 @@
+C:\Users\debus\source\repos\TalkingClock\TalkingClockApp\bin\Debug\netcoreapp3.1\TalkingClockApp.exe
+C:\Users\debus\source\repos\TalkingClock\TalkingClockApp\bin\Debug\netcoreapp3.1\TalkingClockApp.deps.json
+C:\Users\debus\source\repos\TalkingClock\TalkingClockApp\bin\Debug\netcoreapp3.1\TalkingClockApp.runtimeconfig.json
+C:\Users\debus\source\repos\TalkingClock\TalkingClockApp\bin\Debug\netcoreapp3.1\TalkingClockApp.runtimeconfig.dev.json
+C:\Users\debus\source\repos\TalkingClock\TalkingClockApp\bin\Debug\netcoreapp3.1\TalkingClockApp.dll
+C:\Users\debus\source\repos\TalkingClock\TalkingClockApp\bin\Debug\netcoreapp3.1\TalkingClockApp.pdb
+C:\Users\debus\source\repos\TalkingClock\TalkingClockApp\obj\Debug\netcoreapp3.1\TalkingClockApp.csprojAssemblyReference.cache
+C:\Users\debus\source\repos\TalkingClock\TalkingClockApp\obj\Debug\netcoreapp3.1\TalkingClockApp.csproj.CoreCompileInputs.cache
+C:\Users\debus\source\repos\TalkingClock\TalkingClockApp\obj\Debug\netcoreapp3.1\TalkingClockApp.AssemblyInfoInputs.cache
+C:\Users\debus\source\repos\TalkingClock\TalkingClockApp\obj\Debug\netcoreapp3.1\TalkingClockApp.AssemblyInfo.cs
+C:\Users\debus\source\repos\TalkingClock\TalkingClockApp\obj\Debug\netcoreapp3.1\TalkingClockApp.dll
+C:\Users\debus\source\repos\TalkingClock\TalkingClockApp\obj\Debug\netcoreapp3.1\TalkingClockApp.pdb
+C:\Users\debus\source\repos\TalkingClock\TalkingClockApp\obj\Debug\netcoreapp3.1\TalkingClockApp.genruntimeconfig.cache
